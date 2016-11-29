@@ -61,4 +61,3 @@ void destroiFila(FILA f) {
     remover(f);
   free(f);
 }
-
